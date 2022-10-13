@@ -3,6 +3,6 @@
 Set of recipes as given by my grandma
 
 - pizas 
-    - [base]( ./pizzss/base.md)
+    - [base]( ./pizzas/base.md)
 - sauses (TODO)
 - preads (TODO)
